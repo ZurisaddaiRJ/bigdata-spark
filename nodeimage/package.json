@@ -1,0 +1,10 @@
+{
+    "name": "node-image",
+    "private": true,
+    "version": "1.0.0",
+    "description": "Docker image - node",
+    "autor": "Zurisaddai Reyes Juarez <zuleyma.juarez_2002@hotmail.com>",
+    "dependencies": {
+        "express": "3.2.4"
+    }
+}
